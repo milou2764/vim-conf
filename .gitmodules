@@ -1,0 +1,15 @@
+[submodule ".vim/pack/plugins/start/ale"]
+	path = .vim/pack/plugins/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule ".vim/pack/plugins/start/vim-auto-save"]
+	path = .vim/pack/plugins/start/vim-auto-save
+	url = https://github.com/907th/vim-auto-save.git
+[submodule ".vim/pack/plugins/start/vim-go"]
+	path = .vim/pack/plugins/start/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule ".vim/pack/plugins/start/vim-swift"]
+	path = .vim/pack/plugins/start/vim-swift
+	url = https://github.com/keith/swift.vim.git
+[submodule ".vim/pack/plugins/start/vim-textidote"]
+	path = .vim/pack/plugins/start/vim-textidote
+	url = https://github.com/PatrBal/vim-textidote.git
