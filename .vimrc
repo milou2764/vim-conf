@@ -32,3 +32,4 @@ let g:ale_linters_ignore = {
       \   'latex': ['lacheck'],
       \   'typescript': ['biome'],
       \}
+let g:textidote_jar = '/opt/homebrew/Cellar/textidote/0.8.3/libexec/textidote.jar'
