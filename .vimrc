@@ -33,3 +33,12 @@ let g:ale_linters_ignore = {
       \   'typescript': ['biome'],
       \}
 let g:textidote_jar = '/opt/homebrew/Cellar/textidote/0.8.3/libexec/textidote.jar'
+let g:gradle_loclist_show = 0
+let g:gradle_show_signs = 0
+
+let g:ale_linters = {
+ \ 'xml': ['android'],
+ \ 'groovy': ['android'],
+ \ 'java': ['android', 'checkstyle', 'eclipselsp'],
+ \ 'kotlin': ['android', 'ktlint', 'languageserver']
+ \ }

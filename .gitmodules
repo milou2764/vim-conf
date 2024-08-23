@@ -16,3 +16,9 @@
 [submodule ".vim/pack/plugins/start/taboo"]
 	path = .vim/pack/plugins/start/taboo
 	url = https://github.com/gcmt/taboo.vim.git
+[submodule ".vim/pack/plugins/start/vim-android"]
+	path = .vim/pack/plugins/start/vim-android
+	url = git@github.com:hsanson/vim-android.git
+[submodule ".vim/pack/plugins/start/vimcomplete"]
+	path = .vim/pack/plugins/start/vimcomplete
+	url = git@github.com:girishji/vimcomplete.git
