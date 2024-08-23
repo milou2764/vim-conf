@@ -9,7 +9,7 @@ set wildmenu
 set showmode
 set incsearch
 set showmatch
-set number
+" set number
 " set hlsearch
 set cursorline
 set linespace=3

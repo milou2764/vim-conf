@@ -13,3 +13,6 @@
 [submodule ".vim/pack/plugins/start/vim-textidote"]
 	path = .vim/pack/plugins/start/vim-textidote
 	url = https://github.com/PatrBal/vim-textidote.git
+[submodule ".vim/pack/plugins/start/taboo"]
+	path = .vim/pack/plugins/start/taboo
+	url = https://github.com/gcmt/taboo.vim.git
