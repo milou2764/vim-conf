@@ -22,3 +22,6 @@
 [submodule ".vim/pack/plugins/start/vimcomplete"]
 	path = .vim/pack/plugins/start/vimcomplete
 	url = git@github.com:girishji/vimcomplete.git
+[submodule ".vim/pack/plugins/start/kotlin-vim"]
+	path = .vim/pack/plugins/start/kotlin-vim
+	url = https://github.com/udalov/kotlin-vim.git
